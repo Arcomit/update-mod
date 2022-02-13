@@ -1,13 +1,11 @@
 {
-  "homepage": "https://github.com/Arcomit/update-mod",
-  "1.16.5": {
-    "1.0.0": "只是一个测试", 
-	"1.0.1": "对，测试", 
-  },
-  "promos": {
-    "1.16.5-latest": "1.0.1",
-    //该MC版本的mod最新版本
-    "1.16.5-recommended": "1.0.1",
-    //该MC版本的mod推荐版本
-  }
+	"homepage": "https://github.com/arcomit/update-mod",
+	"promos": {
+		"1.16.5-latest": "1.0.1",
+		"1.16.5-recommended": "1.0.1"
+	},
+	"1.16.5": {
+		"1.0.0": "只是一个测试", 
+		"1.0.1": "对，测试"
+	}
 }
